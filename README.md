@@ -16,7 +16,8 @@ Download movies from the CLI through fmovies.
 
 # Usage
 
-Current usage: `python3 fmovies.py [fmoviesUrl]` 
+Current usage: `python3 fmovies.py [fmoviesUrl]`
+
 Future usage: `python3 fmovies.py [options] -url [fmoviesUrl]`
 
 ## Options (Coming soon...)
