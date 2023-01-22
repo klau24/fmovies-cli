@@ -1,0 +1,4 @@
+python3
+   - selenium
+youtube-dl
+ffmpeg
