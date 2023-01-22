@@ -4,7 +4,7 @@ Download movies from the CLI through fmovies.
 
 
 # Future Features
-
+* Setup a python env
 * Multithreading to download multiple movies at once
 * Option to play movie from VLC instead of downloading
 * More robust searching that is interactive with user
@@ -16,6 +16,23 @@ Download movies from the CLI through fmovies.
 
 # Usage
 
-`python3 fmovies.py [fmoviesUrl]`
+Current usage: `python3 fmovies.py [fmoviesUrl]` 
+Future usage: `python3 fmovies.py [options] -url [fmoviesUrl]`
+
+## Options (Coming soon...)
+```
+-h, -help                                          Prints this help text
+-o                                                 Name of output file
+-vcl                                               Play from VCL
+-sub                                               Boolean flag for movie subtitles. English only.
+-headless                                          Boolean flag for Selenium
+-b                                                 Show .m3u8 link
+```
+
+# Requirements
+ - python3
+ - selenium
+ - youtube_dl
+ - google chrome
 
 # What I learned
