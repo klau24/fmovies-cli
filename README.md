@@ -1,5 +1,7 @@
 # fmovies-cli
 Download movies from the CLI through fmovies.
+![image](https://user-images.githubusercontent.com/49251143/213901019-32fef584-4668-443a-b34d-bfe7cad526f6.png)
+
 
 # Future Features
 
